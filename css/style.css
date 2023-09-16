@@ -9,6 +9,11 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+main {
+    width: 1440px;
+    margin: 0 auto;
+}
+
 .header_head {
     background-color: black;
 }
@@ -59,7 +64,7 @@ body {
 
 .container {
     margin-top: 150px;
-    
+    margin-bottom: 100px;
     
 }
 
@@ -118,6 +123,12 @@ section {
 .about_text p {
     font-size: 18px;
     margin-bottom: 25px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.about_text {
+    margin: 0 auto;
 }
 
 /* -------------------------------------------------------------------------------------------- */
